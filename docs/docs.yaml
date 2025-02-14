@@ -1,0 +1,6 @@
+nav:
+  LK:
+    Our game engine: lk/index.md
+  Plugins:
+    What are plugins?: plugins/index.md
+    FaceKit: plugins/facekit.md
